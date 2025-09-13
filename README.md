@@ -1,4 +1,4 @@
-# Minecraft Server Tester
+# Minecraft Server Test
 
 一个用于测试Minecraft服务器性能和稳定性的工具，通过模拟多客户端并发连接来评估服务器的响应能力和承载能力。
 
